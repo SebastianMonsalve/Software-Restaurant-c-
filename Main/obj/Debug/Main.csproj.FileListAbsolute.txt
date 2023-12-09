@@ -1,0 +1,14 @@
+C:\Users\sebas\Desktop\Archivos\My Projects\Sistema de Facturacion - Restaurante\Main\bin\Debug\Main.exe.config
+C:\Users\sebas\Desktop\Archivos\My Projects\Sistema de Facturacion - Restaurante\Main\bin\Debug\Main.exe
+C:\Users\sebas\Desktop\Archivos\My Projects\Sistema de Facturacion - Restaurante\Main\bin\Debug\Main.pdb
+C:\Users\sebas\Desktop\Archivos\My Projects\Sistema de Facturacion - Restaurante\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+C:\Users\sebas\Desktop\Archivos\My Projects\Sistema de Facturacion - Restaurante\Main\obj\Debug\Main.csproj.SuggestedBindingRedirects.cache
+C:\Users\sebas\Desktop\Archivos\My Projects\Sistema de Facturacion - Restaurante\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\sebas\Desktop\Archivos\My Projects\Sistema de Facturacion - Restaurante\Main\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\sebas\Desktop\Archivos\My Projects\Sistema de Facturacion - Restaurante\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\Archivos\My Projects\Sistema de Facturacion - Restaurante\Main\obj\Debug\Main.exe
+C:\Users\sebas\Desktop\Archivos\My Projects\Sistema de Facturacion - Restaurante\Main\obj\Debug\Main.pdb
+C:\Users\sebas\Desktop\Archivos\My Projects\Sistema de Facturacion - Restaurante\Main\obj\Debug\Main.Forms.Menu.resources
+C:\Users\sebas\Desktop\Archivos\My Projects\Sistema de Facturacion - Restaurante\Main\obj\Debug\Main.Forms.Empleados.resources
+C:\Users\sebas\Desktop\Archivos\My Projects\Sistema de Facturacion - Restaurante\Main\obj\Debug\Main.Forms.Productos.resources
+C:\Users\sebas\Desktop\Archivos\My Projects\Sistema de Facturacion - Restaurante\Main\obj\Debug\Main.Forms.Roles.resources
