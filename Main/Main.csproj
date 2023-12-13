@@ -46,43 +46,60 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Forms\Empleados.cs">
+    <Compile Include="Class\cConexion.cs" />
+    <Compile Include="Class\ctrlEmpleados.cs" />
+    <Compile Include="Class\ctrlRoles.cs" />
+    <Compile Include="Class\EmpleadoCard.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Class\Empleados.cs" />
+    <Compile Include="Class\Roles.cs" />
+    <Compile Include="Forms\frmEmpleados.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\Empleados.Designer.cs">
-      <DependentUpon>Empleados.cs</DependentUpon>
+    <Compile Include="Forms\frmEmpleados.Designer.cs">
+      <DependentUpon>frmEmpleados.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\Menu.cs">
+    <Compile Include="Forms\frmInicial.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\Menu.Designer.cs">
-      <DependentUpon>Menu.cs</DependentUpon>
+    <Compile Include="Forms\frmInicial.Designer.cs">
+      <DependentUpon>frmInicial.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\Productos.cs">
+    <Compile Include="Forms\frmMenu.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\Productos.Designer.cs">
-      <DependentUpon>Productos.cs</DependentUpon>
+    <Compile Include="Forms\frmMenu.Designer.cs">
+      <DependentUpon>frmMenu.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\Roles.cs">
+    <Compile Include="Forms\frmProductos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\Roles.Designer.cs">
-      <DependentUpon>Roles.cs</DependentUpon>
+    <Compile Include="Forms\frmProductos.Designer.cs">
+      <DependentUpon>frmProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmRoles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmRoles.Designer.cs">
+      <DependentUpon>frmRoles.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Forms\Empleados.resx">
-      <DependentUpon>Empleados.cs</DependentUpon>
+    <EmbeddedResource Include="Forms\frmEmpleados.resx">
+      <DependentUpon>frmEmpleados.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Forms\Menu.resx">
-      <DependentUpon>Menu.cs</DependentUpon>
+    <EmbeddedResource Include="Forms\frmInicial.resx">
+      <DependentUpon>frmInicial.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Forms\Productos.resx">
-      <DependentUpon>Productos.cs</DependentUpon>
+    <EmbeddedResource Include="Forms\frmMenu.resx">
+      <DependentUpon>frmMenu.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Forms\Roles.resx">
-      <DependentUpon>Roles.cs</DependentUpon>
+    <EmbeddedResource Include="Forms\frmProductos.resx">
+      <DependentUpon>frmProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmRoles.resx">
+      <DependentUpon>frmRoles.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -107,14 +124,13 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Class\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="Resourse\actualizar.png" />
     <Content Include="Resourse\cerrar-sesion.png" />
     <Content Include="Resourse\cliente %281%29.png" />
     <Content Include="Resourse\cliente.png" />
+    <None Include="Resourse\defaultImage.jpg" />
     <Content Include="Resourse\dinero.png" />
     <None Include="Resourse\eliminar.png" />
     <Content Include="Resourse\empleado %281%29.png" />

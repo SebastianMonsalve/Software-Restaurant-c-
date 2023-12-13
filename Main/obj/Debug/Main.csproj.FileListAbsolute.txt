@@ -8,7 +8,8 @@ C:\Users\sebas\Desktop\Archivos\My Projects\Sistema de Facturacion - Restaurante
 C:\Users\sebas\Desktop\Archivos\My Projects\Sistema de Facturacion - Restaurante\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
 C:\Users\sebas\Desktop\Archivos\My Projects\Sistema de Facturacion - Restaurante\Main\obj\Debug\Main.exe
 C:\Users\sebas\Desktop\Archivos\My Projects\Sistema de Facturacion - Restaurante\Main\obj\Debug\Main.pdb
-C:\Users\sebas\Desktop\Archivos\My Projects\Sistema de Facturacion - Restaurante\Main\obj\Debug\Main.Forms.Menu.resources
-C:\Users\sebas\Desktop\Archivos\My Projects\Sistema de Facturacion - Restaurante\Main\obj\Debug\Main.Forms.Empleados.resources
-C:\Users\sebas\Desktop\Archivos\My Projects\Sistema de Facturacion - Restaurante\Main\obj\Debug\Main.Forms.Productos.resources
-C:\Users\sebas\Desktop\Archivos\My Projects\Sistema de Facturacion - Restaurante\Main\obj\Debug\Main.Forms.Roles.resources
+C:\Users\sebas\Desktop\Archivos\My Projects\Sistema de Facturacion - Restaurante\Main\obj\Debug\Main.Forms.frmEmpleados.resources
+C:\Users\sebas\Desktop\Archivos\My Projects\Sistema de Facturacion - Restaurante\Main\obj\Debug\Main.Forms.frmMenu.resources
+C:\Users\sebas\Desktop\Archivos\My Projects\Sistema de Facturacion - Restaurante\Main\obj\Debug\Main.Forms.frmProductos.resources
+C:\Users\sebas\Desktop\Archivos\My Projects\Sistema de Facturacion - Restaurante\Main\obj\Debug\Main.Forms.frmRoles.resources
+C:\Users\sebas\Desktop\Archivos\My Projects\Sistema de Facturacion - Restaurante\Main\obj\Debug\Main.Forms.frmInicial.resources
